@@ -1,2 +1,2 @@
 # Precourso-henry
-este es un repositorio del modulo2 henry
+Pablo Ezequiel Insfran PreCurso-Henry
